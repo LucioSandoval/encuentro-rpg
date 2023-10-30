@@ -1,0 +1,14 @@
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\encuentro-rpg\bin\Debug\net7.0\encuentro-rpg.exe
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\encuentro-rpg\bin\Debug\net7.0\encuentro-rpg.deps.json
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\encuentro-rpg\bin\Debug\net7.0\encuentro-rpg.runtimeconfig.json
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\encuentro-rpg\bin\Debug\net7.0\encuentro-rpg.dll
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\encuentro-rpg\bin\Debug\net7.0\encuentro-rpg.pdb
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\encuentro-rpg\obj\Debug\net7.0\encuentro-rpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\encuentro-rpg\obj\Debug\net7.0\encuentro-rpg.AssemblyInfoInputs.cache
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\encuentro-rpg\obj\Debug\net7.0\encuentro-rpg.AssemblyInfo.cs
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\encuentro-rpg\obj\Debug\net7.0\encuentro-rpg.csproj.CoreCompileInputs.cache
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\encuentro-rpg\obj\Debug\net7.0\encuentro-rpg.dll
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\encuentro-rpg\obj\Debug\net7.0\refint\encuentro-rpg.dll
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\encuentro-rpg\obj\Debug\net7.0\encuentro-rpg.pdb
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\encuentro-rpg\obj\Debug\net7.0\encuentro-rpg.genruntimeconfig.cache
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\encuentro-rpg\obj\Debug\net7.0\ref\encuentro-rpg.dll
